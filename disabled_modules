@@ -1,0 +1,4 @@
+GLUON_SITE_FEEDS='AMS'
+PACKAGES_AMS_REPO=https://github.com/amscamp/ams-gluon-packages.git
+PACKAGES_AMS_BRANCH=main
+PACKAGES_AMS_COMMIT=
